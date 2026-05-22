@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="aSO5svAsqX6JZTD3HfNBrd-ecgWOBj3OxKTTuXre4aE" />
 # 9proxy-cliproxy
 # 9Proxy vs. Cliproxy: The Ultimate Product and Pricing Comparison (2026)
 
