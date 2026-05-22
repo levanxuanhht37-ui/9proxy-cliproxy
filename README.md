@@ -72,4 +72,39 @@ This model charges for metered data usage while granting access to the entire po
 - Require static, long-term residential IPs for persistent platform access  
 
 ---
+---
+
+## 🎁 EXCLUSIVE DEAL: Get Up to 50% OFF Both 9Proxy & Cliproxy Now!
+
+Have you decided which provider fits your workflow best? Don't rush to pay full retail price on their official websites! 
+
+Through our exclusive enterprise bulk partnership, we have secured massive allocations of proxy credits directly from both **9Proxy** and **Cliproxy**. Today, we are passing those wholesale savings directly to you at a flat **50% DISCOUNT**! Check our exclusive price list below:
+
+```text
+┌────────────────────────────────────────────────────────┐
+│               🚀 PROXY PREMIUM SERVICES 🚀             │
+├────────────────────────────────────────────────────────┤
+│    🌐 9Proxy (IPs)            🌐 CLIProxy (IPs)        │
+│  ───────────────────        ───────────────────        │
+│  🔹200 IPs   │ $12.0        🔸200 IPs   │ $10.0        │
+│  🔹500 IPs   │ $25.0        🔸500 IPs   │ $22.0        │
+│  🔹1000 IPs  │ $50.0        🔸1000 IPs  │ $45.0        │
+│  🔹2000 IPs  │ $95.0        🔸2000 IPs  │ $90.0        │
+│  🔹3000 IPs  │ $130.0       🔸3000 IPs  │ $115.0       │
+│  🔹5000 IPs  │ $175.0       🔸5000 IPs  │ $160.0       │
+│  🔹10000 IPs │ $350.0       🔸10000 IPs │ $330.0       │
+├────────────────────────────────────────────────────────┤
+│ 🎁 BONUS: FREE TRIAL AVAILABLE                         │                           │
+│ ⚡ DELIVERY: INSTANT CDK GENERATION                     │
+└────────────────────────────────────────────────────────┘
+```
+
+### 🔒 Why Buy From Us?
+1. **100% Genuine:** These are official CDKeys/API balances transferable directly to your account.
+2. **Try Before You Buy:** Unsure about the speed? Contact us to claim your **FREE TRIAL** right now!
+3. **Secure & Instant:** We accept **USDT** for maximum privacy. Your unique CDK is generated instantly upon payment.
+
+⚡ **Stock is highly limited at this price point.** Click the link below or message us directly on Telegram to secure your half-price proxy package before our enterprise quota runs out!
+
+## 🔥 **[👉 CLICK HERE TO CONTACT @cliproxy9proxyAll ON TELEGRAM AND CLAIM YOUR DISCOUNT](https://t.me/cliproxy9proxyAll)
 
